@@ -1,0 +1,10 @@
+.link:hover{
+    cursor: pointer;
+}
+.image:hover{
+    transform: scale(1.05);
+}
+.image{
+    width: auto;
+}
+fdsfsf
